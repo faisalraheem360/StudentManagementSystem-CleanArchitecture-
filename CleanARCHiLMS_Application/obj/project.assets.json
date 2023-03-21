@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CleanARCHiLMS_Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CleanARCHiLMS_Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanARCHiLMS_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanARCHiLMS_Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanARCHiLMS_Domain/CleanARCHiLMS_Domain.csproj",
+      "msbuildProject": "../CleanARCHiLMS_Domain/CleanARCHiLMS_Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CleanARCHiLMS_Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jhanz\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj",
+      "projectName": "CleanARCHiLMS_Application",
+      "projectPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj",
+      "packagesPath": "C:\\Users\\jhanz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jhanz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Dlls\\Core": {},
+        "C:\\Users\\Dlls\\Core AIUHS": {},
+        "C:\\Users\\jhanz\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj": {
+              "projectPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

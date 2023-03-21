@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CleanARCHiLMS_Api.props" />
+</Project>

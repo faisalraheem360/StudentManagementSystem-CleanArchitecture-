@@ -1,0 +1,15 @@
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\bin\Debug\net6.0\CleanARCHiLMS_Application.deps.json
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\bin\Debug\net6.0\CleanARCHiLMS_Application.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\bin\Debug\net6.0\CleanARCHiLMS_Application.pdb
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\bin\Debug\net6.0\CleanARCHiLMS_Domain.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\bin\Debug\net6.0\CleanARCHiLMS_Domain.pdb
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.csproj.AssemblyReference.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.AssemblyInfoInputs.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.AssemblyInfo.cs
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.csproj.CoreCompileInputs.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.csproj.CopyComplete
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\refint\CleanARCHiLMS_Application.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\CleanARCHiLMS_Application.pdb
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Application\obj\Debug\net6.0\ref\CleanARCHiLMS_Application.dll

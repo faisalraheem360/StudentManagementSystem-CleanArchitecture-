@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<link href="https://cdn.datatables.net/1.13.3/css/jquery.dataTables.css">
+<script src="https://code.jquery.com/jquery-3.6.4.js"
+        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
+        crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.js"></script>
+@*
+<div class="row">
+    <div class="col-md-8">
+        <!-- Modal -->
+        <div class="modal fade" id="AddStudent" tabindex="-1" role="dialog" aria-labelledby="StudentModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="StudentModalLabel">Add Student</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body" id="_student">
+
+                        <div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" id="savebtn">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+*@
+<table class="table" id="tbllist">
+    
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+          <th>
+              Name
+          </th>
+          <th>
+              FatherName
+          </th>
+          <th>
+              Age
+          </th>
+          <th>
+              Standard
+          </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+    </table>
+
+    <script>
+    //var table;
+    //$(document).ready(function () {
+    //    table = $("#tbllist").DataTable({
+    //        searching: false,
+    //        ajax: '/api/Student',
+    //        columns: [
+    //            { data: 'stuId', 'visible': false },
+    //            { data: 'name' },
+    //            { data: 'fatherName' },
+    //            { data: 'age' },
+    //            { data: 'standard' }
+                //{ data: 'stuId', render: function (data, type, row) {
+                //        return '<button type="button" class="btn btn-primary Edit_Btn" data-toggle="modal" data-target="#AddStudent" data-id="' + data + '"onclick="getForm(' + data + ')">Edit</button>  <button type="button" class="btn btn-danger Delete_Btn"onclick="Deletes(' + data + ')" data-id="' + data + '">Delete</button>';
+                //    }
+                //}
+
+    //        ]
+    //    });
+    //});
+
+    $('#tbllist').ready(function () {
+        table=$('#tbllist').DataTable({
+            ajax: '/api/Student',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            "processing": true,
+            "serverSide": true,
+            columns: [
+                { data: 'stuId' },
+                { data: 'name' },
+                { data: 'fatherName' },
+                { data: 'age' },
+                { data: 'standard' }
+            ]
+        });
+        //table = $("#tbllist").DataTable({
+        //$.ajax({
+        //    url: "/api/Student",
+        //    contentType: "application/json; charset=utf-8",
+        //    dataType: "json",
+        //    columns: [
+        //        { data: 'stuId' },
+        //        { data: 'name' },
+        //        { data: 'fatherName' },
+        //        { data: 'age' },
+        //        { data: 'standard' }
+        //    ]
+        //});
+        //});
+    });
+    </script>

@@ -1,0 +1,12 @@
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\bin\Debug\net6.0\CleanARCHiLMS_Domain.deps.json
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\bin\Debug\net6.0\CleanARCHiLMS_Domain.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\bin\Debug\net6.0\CleanARCHiLMS_Domain.pdb
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.csproj.AssemblyReference.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.AssemblyInfoInputs.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.AssemblyInfo.cs
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\refint\CleanARCHiLMS_Domain.dll
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\CleanARCHiLMS_Domain.pdb
+C:\Users\jhanz\source\repos\CleanARCHiLMS_Domain\CleanARCHiLMS_Domain\obj\Debug\net6.0\ref\CleanARCHiLMS_Domain.dll
