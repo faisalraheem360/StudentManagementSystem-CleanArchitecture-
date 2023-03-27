@@ -1,0 +1,58 @@
+﻿@model CleanARCHiLMS_Domain.Student
+@{
+}
+<h2>Student Detail</h2>
+<div>
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#AddStudent" id="addbtn">Add Student</button>
+
+</div>
+        <!-- Modal -->
+
+        <div class="modal fade" id="AddStudent" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                  <partial name="_student" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="savebtn">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<table class="table" id="tbllist">
+
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Father Name
+            </th>
+            <th>
+                Age
+            </th>
+            <th>
+                Standard
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+@* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>*@
