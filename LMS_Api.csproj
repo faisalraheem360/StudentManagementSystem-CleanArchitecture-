@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanARCHiLMS_Application\CleanARCHiLMS_Application.csproj" />
-    <ProjectReference Include="..\CleanARCHiLMS_Infrastructure\CleanARCHiLMS_Infrastructure.csproj" />
+    <ProjectReference Include="..\LMS_Application\CleanARCHiLMS_Application.csproj" />
+    <ProjectReference Include="..\LMS_Infrastructure\CleanARCHiLMS_Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
