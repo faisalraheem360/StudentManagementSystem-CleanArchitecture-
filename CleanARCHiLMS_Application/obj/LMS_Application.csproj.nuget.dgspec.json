@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj": {}
+    "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Application\\LMS_Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj": {
+    "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Application\\LMS_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj",
-        "projectName": "CleanARCHiLMS_Application",
-        "projectPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\CleanARCHiLMS_Application.csproj",
+        "projectUniqueName": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Application\\LMS_Application.csproj",
+        "projectName": "LMS_Application",
+        "projectPath": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Application\\LMS_Application.csproj",
         "packagesPath": "C:\\Users\\jhanz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Application\\obj\\",
+        "outputPath": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj": {
-                "projectPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj"
+              "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\LMS_Domain.csproj": {
+                "projectPath": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\LMS_Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj": {
+    "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\LMS_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj",
-        "projectName": "CleanARCHiLMS_Domain",
-        "projectPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\LMS_Domain.csproj",
+        "projectName": "LMS_Domain",
+        "projectPath": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\LMS_Domain.csproj",
         "packagesPath": "C:\\Users\\jhanz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhanz\\source\\repos\\CleanARCHiLMS_Domain\\CleanARCHiLMS_Domain\\obj\\",
+        "outputPath": "C:\\Users\\jhanz\\source\\repos\\LMS_Domain\\LMS_Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
